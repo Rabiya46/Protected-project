@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Protected-project/static/css/main.daf1f13c.css",
+    "main.js": "/Protected-project/static/js/main.5c78b3d9.js",
+    "index.html": "/Protected-project/index.html",
+    "main.daf1f13c.css.map": "/Protected-project/static/css/main.daf1f13c.css.map",
+    "main.5c78b3d9.js.map": "/Protected-project/static/js/main.5c78b3d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf1f13c.css",
+    "static/js/main.5c78b3d9.js"
+  ]
+}
